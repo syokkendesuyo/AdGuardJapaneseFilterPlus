@@ -13,6 +13,9 @@ moneyforward.com###js-mf-right-content
 moneyforward.com###premium-notice
 moneyforward.com##.campaign
 
+! https://note.nkmk.me/
+note.nkmk.me###side > div.sticky-block:last-child > div.side-block:last-child
+
 ! https://oshiete.goo.ne.jp/
 oshiete.goo.ne.jp###side > aside:nth-child(5)
 
